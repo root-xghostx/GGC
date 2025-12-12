@@ -133,7 +133,7 @@ A secure, invite-only encrypted messaging application with true end-to-end encry
 
 ###### For inquiries, support, and reporting issues:
 
-Telegram: https://t.me/ggc\_admin  OR  https://t.me/goldenghost\_chat
+Telegram: https://t.me/ggc_admin  OR  https://t.me/goldenghost_chat
 
 In-app: Contact link available in header
 
